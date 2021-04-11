@@ -7,5 +7,5 @@ C++ implementations of various search trees
 
 **Treap.cpp** - a cartesian tree
 
-**Set.h** - implementation of set data structure using an AVL-tree.
+**Set.h** - implementation of set data structure on an AVL-tree.
 
